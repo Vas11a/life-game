@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/life-game/static/css/main.f0304a19.css",
+    "main.js": "/life-game/static/js/main.f1fbb86c.js",
+    "index.html": "/life-game/index.html",
+    "main.f0304a19.css.map": "/life-game/static/css/main.f0304a19.css.map",
+    "main.f1fbb86c.js.map": "/life-game/static/js/main.f1fbb86c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0304a19.css",
+    "static/js/main.f1fbb86c.js"
+  ]
+}
